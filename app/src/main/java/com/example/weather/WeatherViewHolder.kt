@@ -25,7 +25,7 @@ class WeatherViewHolder(itemView: View): RecyclerView.ViewHolder(itemView) {
             temp in -14..-10 -> R.color.minus_14_to_minus_10
             temp in -9..9 -> R.color.minus_9_to_plus_9
             temp in 10..14 -> R.color.plus_10_to_plus_14
-            temp in 15..20 -> R.color.plus_15_to_plus_20
+            //temp in 15..20 -> R.color.plus_15_to_plus_20
             else -> R.color.more_then_plus_20
 
         }
