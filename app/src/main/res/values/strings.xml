@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="title">Прогноз погоды</string>
+    <string name="plus_temperature">+%1$s</string>
+    <string name="minus_temperature">%1$s</string>
+
+</resources>

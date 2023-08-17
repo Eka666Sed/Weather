@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="less_then_minus_20">#3665F4</color>
+    <color name="minus_20_to_minus_15">#36D8F4</color>
+    <color name="minus_14_to_minus_10">#36F4D7</color>
+    <color name="minus_9_to_plus_9">#36F4BE</color>
+    <color name="plus_10_to_plus_14">#36F45F</color>
+    <color name="plus_15_to_plus_20">#F4D436</color>
+    <color name="more_then_plus_20">#F44336</color>
+</resources>
